@@ -16,7 +16,7 @@ I tinker with **new tools** and **security frameworks** to stay ahead in the fie
 - **CI/CD Tools:** Jenkins, GitLab CI, GitHub Actions.
 
 ## 🏆 Achievements
-- **Top 5th Pinterest Security Researcher on Bugcrowd**
+- **Top 3rd Pinterest Security Researcher on Bugcrowd**
 - **Bounties Earned:** $XX,XXX on Bugcrowd, including major security findings in leading applications.
 
 ## 📬 Let's Collaborate
