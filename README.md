@@ -1,7 +1,7 @@
 # Hey there, I'm Redza 👋
 
 🔒 **DevSecOps Engineer | Software Engineer | Penetration Tester**  
-🎯 **Security Researcher - Top 5th Pinterest Security Researcher on Bugcrowd**  
+🎯 **Security Researcher - Top 3rd Pinterest Security Researcher on Bugcrowd**  
 
 ## 🚀 About Me
 I'm fueled by a burning desire to keep learning and pushing boundaries. Whether it's setting up slick CI/CD pipelines, crafting robust software solutions, or ferreting out security bugs, I'm always diving headfirst into new challenges. I’m passionate about solving problems that have real-world applications and making systems more secure.
